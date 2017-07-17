@@ -1,0 +1,3 @@
+include ':app'
+include ':react-native-preload-library'
+project(':react-native-preload-library').projectDir = new File(rootProject.projectDir, './node_modules/react-native-preload-library/android')
