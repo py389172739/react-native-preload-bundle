@@ -1,4 +1,5 @@
 
+# How to use
 react-native-preload-library的集成是在原生Android项目集成React Native基础上添加必要的配置来完成。
 ## 1.在原生项目根目录下添加package.json和index.android.js文件
 
